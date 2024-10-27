@@ -1,0 +1,29 @@
+# Python files
+*.pyc
+*.pyo
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environment
+libenv/
+
+# Package-specific files
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs and test results
+*.log
+*.out
+*.err
+test-reports/
+coverage/
+
+# Local configuration
+local_settings.py
